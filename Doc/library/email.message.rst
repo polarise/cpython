@@ -746,6 +746,6 @@ message objects.
 
 .. rubric:: Footnotes
 
-.. [1] Oringally added in 3.4 as a :term:`provisional module <provisional
+.. [1] Originally added in 3.4 as a :term:`provisional module <provisional
        package>`.  Docs for legacy message class moved to
        :ref:`compat32_message`.
